@@ -50,21 +50,6 @@ The dashboard also includes error handling for invalid city names and failed API
 - JSON
 - GitHub Pages
 
-## 🌐 APIs Used
-
-### Open-Meteo Geocoding API
-
-Used to search for a city and obtain its latitude and longitude.
-
-https://geocoding-api.open-meteo.com/v1/search
-
-### Open-Meteo Weather API
-
-Used to retrieve current weather information using latitude and longitude.
-
-https://api.open-meteo.com/v1/forecast
-
-No API key is required for this project.
 
 ## 🔄 How It Works
 
